@@ -23,7 +23,7 @@ public class Application {
         System.out.println(chien2.toString());
 
         // Mais par quel miracle ce chien-là s'affichera-t-il ?
-        System.out.println(chien3);                 
+        System.out.println(chien3);
     
     }
 
